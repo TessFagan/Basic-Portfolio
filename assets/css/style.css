@@ -1,0 +1,50 @@
+Basic Portfolio
+
+header {font-family: 'Georgia', Times, Times New Roman, serif;
+  color: gray;
+  background: white;
+  width: 1000px;
+  height: 100px;
+}
+
+section {font-family: Arial', 'Helvetica, sans-serif;
+  background: white;
+  width: 960px;
+  height: 500px;
+}
+
+footer {font-family: Arial', 'Helvetica, sans-serif;
+    color: white;
+    background:gray;
+    width: 1000px;
+    height: 100px;
+}
+
+
+#yourname {
+    margin-right: 300px;
+    color: white;
+    background: lightseagreen;
+    width: 240px;
+    height:100px;
+}
+
+#menu {
+    color: black;
+    background: white;
+    width: 240px;
+    height:100px;
+}
+
+#middle {
+    color: #333;
+    background: white;
+    width: 960px
+}
+
+#aboutme {
+    color: #333;
+    background: white;
+    width: 960px;
+    text-align: left;
+}
