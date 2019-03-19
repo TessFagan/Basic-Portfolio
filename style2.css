@@ -1,0 +1,45 @@
+
+header {background: white;
+
+}
+
+section {
+    color: gray;
+    background-image:url("./assets/./images/./qbkls.png");
+}
+
+footer {background: gray;
+    color: lightgray;
+}
+
+h1 {font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+h2 {color: aqua
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+h4 {font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+p1 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+p2 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+p3 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+p4 { font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+#middle {background: white;
+}
