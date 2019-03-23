@@ -1,45 +1,158 @@
-
-header {background: white;
-
-}
-
-section {
-    color: gray;
+body {
     background-image:url("./assets/./images/./qbkls.png");
 }
 
-footer {background: gray;
+header {
+    background: #ffffff;
+    width: 100%;
+    height:80px;
+}
+
+section {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: gray;
+    width: 960px;
+    float: center;
+    background: #ffffff;
+}
+
+div {
+}
+
+.myname {
+    float:left;
+    background:#4aaaa5;
+    color: white;
+    height: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 200px;
+    text-align: center;
+}
+
+.menu {
+    float: right;
+    color: gray;
+    height: 80px;
+    margin-right: 14%;
+    width: 240px;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+.link1 {
+    float: left;
+    width: 30%;
+    height: 80px;
+    color:#777777;
+}
+
+.link2 {
+    float: left;
+    width: 40%;
+    height: 80px;
+    color:#777777;
+}
+
+.link3 {
+  float: left;  
+  width: 30%;
+  height: 80px;
+  color:#777777;
+}
+
+.aboutme { 
+    color:gray;
+    background: white;
+    width: 960px;
+    height: 410px;
+    float: center;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+.aboutmetitle {
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+img {
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer {
+    background:#666666;
     color: lightgray;
+    width: 100%;
+    height:50px;
+    text-align: center;
+}
+
+.footerline {
+    background:#4aaaa5;
+    width: 100%;
+    height:10px;
+}
+
+hr \ {color: blue;
 }
 
 h1 {font-family: 'Georgia', Times, Times New Roman, serif;
-
 }
 
-h2 {color: aqua
+h2 {
+    color:#4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
-
 }
 
-h4 {font-family: 'Georgia', Times, Times New Roman, serif;
-
+h4 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-p1 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
+.textbox { 
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-p2 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
+p1 {
+    font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #777777;
 }
 
-p3 {font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
+p2 {
+    font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #777777;
 }
 
-p4 { font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
-
+p3 {
+    font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #777777;
 }
 
-#middle {background: white;
+p4 { 
+    font-family: Arial', 'Helvetica' Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
