@@ -64,6 +64,10 @@ div {
   color:#777777;
 }
 
+a {
+    color: #777777
+}
+
 .aboutme { 
     color:gray;
     background: white;
@@ -92,6 +96,24 @@ img {
     width: 180px;
 }
 
+.imageplustext {
+    position: relative;
+    float: left;
+}
+
+.imagedescription {
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 140px;
+    height:40px;
+    text-align: center;
+    vertical-align: center;
+    line-height: 40px;
+}
+
 .portfolio {
     height: 200px;
     width: 140px;
@@ -99,7 +121,6 @@ img {
 
 .portfoliotext {
     position: relative;
-    float: left;
 }
 
 footer {
