@@ -92,6 +92,16 @@ img {
     width: 180px;
 }
 
+.portfolio {
+    height: 200px;
+    width: 140px;
+}
+
+.portfoliotext {
+    position: relative;
+    float: left;
+}
+
 footer {
     background:#666666;
     color: lightgray;
